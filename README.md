@@ -7,7 +7,7 @@
 
 - ### University of Edinburgh graduate with a BSc in Artificial Intelligence.
 
-- ### Interested in AI Infrastructure, MLOps, and applied AI.
+- ### Interested in AI Infrastructure, MLOps, and Applied AI.
 
 ## Connect with me 🌐
 
@@ -18,7 +18,7 @@
 ## 🧰 Toolbox
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nextjs,aws,azure,docker,gcp,git,haskell,linux,cpp,css,fastapi,html,js,ubuntu,vim,vscode,prisma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nextjs,aws,azure,docker,gcp,git,haskell,linux,cpp,css,fastapi,html,js,ubuntu,vim,vscode,prisma&perline=8" />
     </a>
 </p>
 
